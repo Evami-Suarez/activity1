@@ -1,0 +1,134 @@
+body{
+    height: 1000px;
+}
+
+.a{
+    border: 10px;
+    background-color: green;
+    color: White;
+    text-align: center;
+    padding: 50px 10px 80px 10px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+nav{
+    background-color: #3a80cd;
+    color: white;
+    padding: 10px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+ul li {
+
+    display: inline-block;
+    list-style-type: none;
+    padding: 0 10px;
+}
+
+.image1{
+    margin-top: 100px;
+    margin-left: 200px;
+    float: left;
+    width: 400px;
+    position: relative;
+    border: 10px;
+    border-color: solid blanchedalmond;
+}
+
+div .content{
+    height: auto;
+    padding: 20%;
+    color: rgb(247, 163, 163) ;
+    border: 2px solid black;
+    margin: 100x;
+    float: right;
+
+}
+
+
+ .p1{
+    padding: 10px;
+    color: black;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align:justify;
+    width: 40%;
+    float: right;
+}
+
+.p2{
+    padding: 10px;
+    color: black;
+    margin-top: -10px;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align:justify;
+    width: 40%;
+    float: right;
+
+}
+
+.h2{
+    text-transform:capitalize;
+    padding: 10px;
+    color: black;
+    margin-top: 90px;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align:justify;
+    width: 40%;
+    float: right;
+}
+
+.price{
+    padding: 10px;
+    color: rgb(255, 0, 0);
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align:justify;
+    width: 40%;
+    float: right;
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+
+
+button{
+    color: white;
+    background-color: red;
+    border: none;
+    height: 30px;
+    width: 70px;
+    margin-top: 0px;
+    margin-left: 90px;
+    margin-right: 90px;
+    float:right;    
+}
+
+div .details{
+    border: #3a80cd;
+
+}
+
+.b{
+    color: black;
+    padding: 600px;
+    padding-bottom: 0%;
+    padding-left: 0%;
+
+}
+
+.am{
+    width: 85%;
+    text-align: justify;
+    float: center;
+    margin-left: 10%;
+}
+
+footer{
+    margin-left: 10%;
+}
+
